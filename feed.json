@@ -1,0 +1,96 @@
+{
+ "updated": "2026-10-16 09:40",
+ "jobs": [
+  {
+   "k": "job-kamco",
+   "c": "한국자산관리공사",
+   "t": "체험형 인턴 (2차)",
+   "due": "2026-10-16",
+   "fit": "높음",
+   "url": "https://www.kamco.or.kr/portal/contents.do?mId=0105040000"
+  },
+  {
+   "k": "job-krc",
+   "c": "한국농어촌공사",
+   "t": "5급 행정 법정 (정규직)",
+   "due": "2026-10-19",
+   "fit": "높음",
+   "url": "https://krc.cairos.co.kr/krc"
+  },
+  {
+   "k": "job-khnp",
+   "c": "한국수력원자력",
+   "t": "체험형 청년인턴",
+   "due": "2026-10-21",
+   "fit": "보통",
+   "url": "https://www.khnp.co.kr/recruit/main/index.do"
+  },
+  {
+   "k": "job-ssro",
+   "c": "시립청소년미디어센터",
+   "t": "기간제 사무지원",
+   "due": "2026-10-21",
+   "fit": "보통",
+   "url": "https://www.ssro.net/about/notice_view.jsp?no=523759&listSize=7&pageNo=1&ktype=&kword=&bcate=notice&category=recruit"
+  },
+  {
+   "k": "job-kriso1",
+   "c": "선박해양플랜트연구소",
+   "t": "체험형 인턴행정원",
+   "due": "2026-10-22",
+   "fit": "보통",
+   "url": "https://www.kriso.re.kr/menu.es?mid=a10402030000"
+  },
+  {
+   "k": "job-kriso2",
+   "c": "선박해양플랜트연구소",
+   "t": "계약직행정원 (육휴 대체)",
+   "due": "2026-10-22",
+   "fit": "보통",
+   "url": "https://www.kriso.re.kr/menu.es?mid=a10402030000"
+  },
+  {
+   "k": "job-pac",
+   "c": "언론중재위원회",
+   "t": "무기계약직 시정권고심의원",
+   "due": "2026-10-27",
+   "fit": "높음",
+   "url": "https://www.pac.or.kr/kor/pages/?p=34&b=B_1_1&cate=NO_2"
+  },
+  {
+   "k": "job-snoin",
+   "c": "서울노인복지센터",
+   "t": "사무원",
+   "due": "2026-10-30",
+   "fit": "보통",
+   "url": "https://seoulnoin.or.kr/intro/employment.asp"
+  },
+  {
+   "k": "job-ssnara",
+   "c": "서울상상나라",
+   "t": "경영지원팀",
+   "due": "2026-10-30",
+   "fit": "낮음",
+   "url": "https://www.seoul.go.kr/news/news_employ.do"
+  }
+ ],
+ "jobsUrl": "https://claude.ai/artifact/VTs2B7ksLUTSnhqjgLqWNW",
+ "econ": {
+  "asof": "10월 2주 (10/5~10/11)",
+  "url": "https://claude.ai/artifact/2pfEsJsitDVaRBPN9yd7d3",
+  "summary": [
+   "사흘만 열린 장에서 코스피가 5.39% 내려 7,000선 아래로",
+   "삼성전자 역대 최대 실적에도 외국인 매도, 미 국채금리 24년 만의 고점 영향",
+   "경상수지 461억 달러 흑자·환율 1,338원으로 하락, 기준금리 3.00% 동결(다음 10/22)"
+  ]
+ },
+ "realestate": {
+  "asof": "10월 1주 (10/9 기준)",
+  "url": "https://claude.ai/artifact/6ddo3ovY78NimKWEjCc7ND",
+  "summary": [
+   "서울 아파트값 +0.12%, 87주 연속 상승에 오름폭도 확대",
+   "강남3구는 하락, 노원·도봉·강북 등 외곽 중저가 지역이 상승",
+   "주담대 금리 4.66%로 3년 9개월 만에 최고, 9월 가계대출은 감소"
+  ]
+ }
+}
