@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17 08:53",
+ "updated": "2026-10-19 08:55",
  "jobs": [
   {
    "k": "job-krc-2026-beopjeong",
@@ -42,6 +42,14 @@
    "url": "https://www.kriso.re.kr/menu.es?mid=a10402030000"
   },
   {
+   "k": "job-kopo-changwon-2026-admin",
+   "c": "한국폴리텍대학 창원",
+   "t": "행정지원직 (휴직 대체)",
+   "due": "2026-10-25",
+   "fit": "낮음",
+   "url": "https://www.kopo.ac.kr/changwon/board.do?menu=10551"
+  },
+  {
    "k": "job-pac-2026-simuiwon",
    "c": "언론중재위원회",
    "t": "무기계약직 시정권고심의원",
@@ -64,16 +72,24 @@
    "due": "2026-10-30",
    "fit": "보통",
    "url": "https://www.seoul.go.kr/news/news_employ.do"
+  },
+  {
+   "k": "job-fira-2026-1st",
+   "c": "한국수산자원공단",
+   "t": "통합채용 (2026 1차)",
+   "due": "2026-11-02",
+   "fit": "보통",
+   "url": "https://job.alio.go.kr/recruit.do"
   }
  ],
  "jobsUrl": "https://claude.ai/artifact/VTs2B7ksLUTSnhqjgLqWNW",
  "econ": {
-  "asof": "10월 2주 (10/5~10/11)",
+  "asof": "10월 3주 (10/12~10/18)",
   "url": "https://github.com/pbspbs1202/hq-feed/blob/main/econ.md",
   "summary": [
-   "사흘만 열린 장에서 코스피 5.39% 하락, 7,000선 아래로",
-   "삼성전자 역대 최대 실적에도 외국인 매도, 미 국채 24년 만의 고점",
-   "경상수지 461억 달러 흑자, 환율 1,338원, 기준금리 3.00% 동결"
+   "코스피 주간 14.46% 급락, 2008년 10월 이후 최대 낙폭",
+   "반대매매 연쇄에 WTI 101달러, 15일 서킷브레이커 발동",
+   "IMF 성장률 전망 3.3%로 상향, 환율 1,331.4원 하락"
   ]
  },
  "realestate": {
