@@ -1,14 +1,6 @@
 {
- "updated": "2026-10-19 08:55",
+ "updated": "2026-10-20 08:53",
  "jobs": [
-  {
-   "k": "job-krc-2026-beopjeong",
-   "c": "한국농어촌공사",
-   "t": "5급 행정 법정 (정규직)",
-   "due": "2026-10-19",
-   "fit": "높음",
-   "url": "https://krc.cairos.co.kr/krc"
-  },
   {
    "k": "job-khnp-2026-intern2",
    "c": "한국수력원자력",
@@ -42,12 +34,28 @@
    "url": "https://www.kriso.re.kr/menu.es?mid=a10402030000"
   },
   {
+   "k": "job-mof-pyeongtaek-2026-intern3",
+   "c": "평택지방해양수산청",
+   "t": "청년인턴 (3차)",
+   "due": "2026-10-23",
+   "fit": "낮음",
+   "url": "https://www.2030db.go.kr/user/youthIntern/selectYouthInternList.do"
+  },
+  {
    "k": "job-kopo-changwon-2026-admin",
    "c": "한국폴리텍대학 창원",
    "t": "행정지원직 (휴직 대체)",
    "due": "2026-10-25",
    "fit": "낮음",
    "url": "https://www.kopo.ac.kr/changwon/board.do?menu=10551"
+  },
+  {
+   "k": "job-mof-masan-2026-intern3",
+   "c": "마산지방해양수산청",
+   "t": "청년인턴 (3차)",
+   "due": "2026-10-26",
+   "fit": "낮음",
+   "url": "https://www.2030db.go.kr/user/youthIntern/selectYouthInternList.do"
   },
   {
    "k": "job-pac-2026-simuiwon",
@@ -79,6 +87,22 @@
    "t": "통합채용 (2026 1차)",
    "due": "2026-11-02",
    "fit": "보통",
+   "url": "https://job.alio.go.kr/recruit.do"
+  },
+  {
+   "k": "job-lh-seoul-2026-gigan-maeip",
+   "c": "LH 서울지역본부",
+   "t": "기간제 매입행정역",
+   "due": "2026-11-02",
+   "fit": "높음",
+   "url": "https://www.lh.or.kr/menu.es?mid=a10602050000"
+  },
+  {
+   "k": "job-kosme-2026-intern-h2",
+   "c": "중소벤처기업진흥공단",
+   "t": "체험형 인턴 (하반기)",
+   "due": "2026-11-03",
+   "fit": "높음",
    "url": "https://job.alio.go.kr/recruit.do"
   }
  ],
