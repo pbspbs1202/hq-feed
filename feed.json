@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20 08:53",
+ "updated": "2026-10-21 08:53",
  "jobs": [
   {
    "k": "job-khnp-2026-intern2",
@@ -66,6 +66,14 @@
    "url": "https://www.pac.or.kr/kor/pages/?p=34&b=B_1_1&cate=NO_2"
   },
   {
+   "k": "job-sfwf-2026-5th",
+   "c": "서울시여성가족재단",
+   "t": "계약직 직원 (5회)",
+   "due": "2026-10-29",
+   "fit": "보통",
+   "url": "https://www.seoulwomen.or.kr/sfwf/contents/sfwf-recruitNotice.do"
+  },
+  {
    "k": "job-sangsangnara-2026-mgmtsupport",
    "c": "서울상상나라",
    "t": "경영지원팀 사무",
@@ -104,6 +112,22 @@
    "due": "2026-11-03",
    "fit": "높음",
    "url": "https://job.alio.go.kr/recruit.do"
+  },
+  {
+   "k": "job-namuk-2026-6th",
+   "c": "국립농업박물관",
+   "t": "기간제 교육기획 (6차)",
+   "due": "2026-11-03",
+   "fit": "낮음",
+   "url": "https://www.namuk.or.kr/bbs/kr/186/1958/artclView.do"
+  },
+  {
+   "k": "job-smrt-2026-h2-samu",
+   "c": "서울교통공사",
+   "t": "채용형 인턴 사무",
+   "due": "2026-11-09",
+   "fit": "높음",
+   "url": "https://seoulmetro.incruit.com/hire/viewhire.asp?projectid=108"
   }
  ],
  "jobsUrl": "https://claude.ai/artifact/VTs2B7ksLUTSnhqjgLqWNW",
