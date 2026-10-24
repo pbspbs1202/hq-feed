@@ -1,14 +1,6 @@
 {
- "updated": "2026-10-23 08:52",
+ "updated": "2026-10-25 08:52",
  "jobs": [
-  {
-   "k": "job-mof-pyeongtaek-2026-intern3",
-   "c": "평택지방해양수산청",
-   "t": "청년인턴 (3차)",
-   "due": "2026-10-23",
-   "fit": "낮음",
-   "url": "https://www.2030db.go.kr/user/youthIntern/selectYouthInternList.do"
-  },
   {
    "k": "job-kopo-changwon-2026-admin",
    "c": "한국폴리텍대학 창원",
@@ -88,6 +80,14 @@
    "due": "2026-11-03",
    "fit": "낮음",
    "url": "https://www.namuk.or.kr/bbs/kr/186/1958/artclView.do"
+  },
+  {
+   "k": "job-pnuh-2026-contract-admin",
+   "c": "부산대학교병원",
+   "t": "계약직 행정직",
+   "due": "2026-11-06",
+   "fit": "낮음",
+   "url": "https://job.alio.go.kr/recruit.do"
   },
   {
    "k": "job-smrt-2026-h2-samu",
