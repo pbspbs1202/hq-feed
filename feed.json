@@ -1,14 +1,6 @@
 {
- "updated": "2026-10-25 08:52",
+ "updated": "2026-10-26 08:59",
  "jobs": [
-  {
-   "k": "job-kopo-changwon-2026-admin",
-   "c": "한국폴리텍대학 창원",
-   "t": "행정지원직 (휴직 대체)",
-   "due": "2026-10-25",
-   "fit": "낮음",
-   "url": "https://www.kopo.ac.kr/changwon/board.do?menu=10551"
-  },
   {
    "k": "job-mof-masan-2026-intern3",
    "c": "마산지방해양수산청",
@@ -100,12 +92,12 @@
  ],
  "jobsUrl": "https://claude.ai/artifact/VTs2B7ksLUTSnhqjgLqWNW",
  "econ": {
-  "asof": "10월 3주 (10/12~10/18)",
+  "asof": "10월 4주 (10/19~10/25)",
   "url": "https://github.com/pbspbs1202/hq-feed/blob/main/econ.md",
   "summary": [
-   "코스피 주간 14.46% 급락, 2008년 10월 이후 최대 낙폭",
-   "반대매매 연쇄에 WTI 101달러, 15일 서킷브레이커 발동",
-   "IMF 성장률 전망 3.3%로 상향, 환율 1,331.4원 하락"
+   "기준금리 3.00% 동결, 총재 고금리 시사로 11월 인상 여지",
+   "코스피 2.08% 내린 5,550.30, 코스닥 5.42% 급락 751.69",
+   "10월 1~20일 수출 616억 달러 2배 증가, 연체율 0.69% 최고"
   ]
  },
  "realestate": {
