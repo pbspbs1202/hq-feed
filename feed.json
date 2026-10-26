@@ -1,14 +1,6 @@
 {
- "updated": "2026-10-26 08:59",
+ "updated": "2026-10-27 08:54",
  "jobs": [
-  {
-   "k": "job-mof-masan-2026-intern3",
-   "c": "마산지방해양수산청",
-   "t": "청년인턴 (3차)",
-   "due": "2026-10-26",
-   "fit": "낮음",
-   "url": "https://www.2030db.go.kr/user/youthIntern/selectYouthInternList.do"
-  },
   {
    "k": "job-pac-2026-simuiwon",
    "c": "언론중재위원회",
@@ -82,12 +74,44 @@
    "url": "https://job.alio.go.kr/recruit.do"
   },
   {
+   "k": "job-koroad-2026-intern-h2",
+   "c": "한국도로교통공단",
+   "t": "체험형 인턴 (하반기)",
+   "due": "2026-11-09",
+   "fit": "높음",
+   "url": "https://job.alio.go.kr/recruit.do"
+  },
+  {
+   "k": "job-lh-gyeonggi-north-2026-maeip",
+   "c": "LH 경기북부지역본부",
+   "t": "기간제 매입행정역",
+   "due": "2026-11-09",
+   "fit": "보통",
+   "url": "https://job.alio.go.kr/recruit.do"
+  },
+  {
+   "k": "job-lh-gyeonggi-south-2026-maeip",
+   "c": "LH 경기남부지역본부",
+   "t": "기간제 매입행정역",
+   "due": "2026-11-09",
+   "fit": "보통",
+   "url": "https://job.alio.go.kr/recruit.do"
+  },
+  {
    "k": "job-smrt-2026-h2-samu",
    "c": "서울교통공사",
    "t": "채용형 인턴 사무",
    "due": "2026-11-09",
    "fit": "높음",
    "url": "https://seoulmetro.incruit.com/hire/viewhire.asp?projectid=108"
+  },
+  {
+   "k": "job-kospo-2026-intern-h2",
+   "c": "한국남부발전",
+   "t": "체험형 인턴 (하반기)",
+   "due": "2026-11-11",
+   "fit": "보통",
+   "url": "https://job.alio.go.kr/recruit.do"
   }
  ],
  "jobsUrl": "https://claude.ai/artifact/VTs2B7ksLUTSnhqjgLqWNW",
