@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28 08:53",
+ "updated": "2026-10-29 08:53",
  "jobs": [
   {
    "k": "job-sfwf-2026-5th",
@@ -58,6 +58,14 @@
    "url": "https://www.namuk.or.kr/bbs/kr/186/1958/artclView.do"
   },
   {
+   "k": "job-redcross-2026-planning-contract",
+   "c": "대한적십자사",
+   "t": "기간제 사무보조",
+   "due": "2026-11-05",
+   "fit": "보통",
+   "url": "https://www.redcross.or.kr/main/pt/pst/selectPstInfo.do?mi=2378&pstSn=506066&bbsId=1422"
+  },
+  {
    "k": "job-pnuh-2026-contract-admin",
    "c": "부산대학교병원",
    "t": "계약직 행정직",
@@ -104,6 +112,22 @@
    "due": "2026-11-11",
    "fit": "보통",
    "url": "https://job.alio.go.kr/recruit.do"
+  },
+  {
+   "k": "job-seoul-jangaein-jobcenter-2026-accounting",
+   "c": "서울시장애인일자리센터",
+   "t": "회계 사무원 (육휴대체)",
+   "due": "2026-11-11",
+   "fit": "보통",
+   "url": "https://news.seoul.go.kr/welfare/archives/584184"
+  },
+  {
+   "k": "job-siryc-2026-oct",
+   "c": "서울청년기지개센터",
+   "t": "센터 직원 (분야 확인)",
+   "due": "2026-11-11",
+   "fit": "낮음",
+   "url": "https://youth.seoul.go.kr/bbs/list.do?key=2303300002&sc_bbsCtgrySn=2304110001"
   }
  ],
  "jobsUrl": "https://claude.ai/artifact/VTs2B7ksLUTSnhqjgLqWNW",
